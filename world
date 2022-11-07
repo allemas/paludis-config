@@ -42,7 +42,6 @@ kde/konsole
 dev-lang/node
 repository/virtualization
 docker
-app-virtualization/docker-compose
 repository/keruspe
 dev-scala/sbt
 net-wireless/wireless-regdb
@@ -71,4 +70,11 @@ gnome-desktop/gnome-terminal
 x11-apps/alacritty
 repository/cogitri
 repository/CleverCloud
-gnome-desktop/chrome-gnome-shell
+net-analyzer/tcpdump
+gnome-desktop/gnome-bluetooth
+dev-lang/openjdk-bin
+dev-java/maven
+dev-lang/go
+repository/cinnamon-unofficial
+dev-python/docker-py
+dev-python/websocket-client

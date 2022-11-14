@@ -78,3 +78,4 @@ dev-lang/go
 repository/cinnamon-unofficial
 dev-python/docker-py
 dev-python/websocket-client
+app-virtualization/docker-compose
